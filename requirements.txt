@@ -1,0 +1,6 @@
+sounddevice
+wavio==0.0.4
+pydub==0.25.1
+whisper==1.0
+numpy==1.24.2
+groq==0.4.1
